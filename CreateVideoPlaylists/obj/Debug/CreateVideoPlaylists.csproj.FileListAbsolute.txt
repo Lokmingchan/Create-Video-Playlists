@@ -1,0 +1,7 @@
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\bin\Debug\CreateVideoPlaylists.exe.config
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\obj\Debug\CreateVideoPlaylists.csprojResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\bin\Debug\CreateVideoPlaylists.exe
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\bin\Debug\CreateVideoPlaylists.pdb
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\obj\Debug\CreateVideoPlaylists.exe
+C:\Inetpub\wwwroot\CreateVideoPlaylists\CreateVideoPlaylists\obj\Debug\CreateVideoPlaylists.pdb
+E:\Main\Desktop\CreateVideoPlaylists.exe.config
